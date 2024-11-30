@@ -72,7 +72,7 @@ export default function App() {
         data={nombres}
         ListHeaderComponent={
           <Image
-            source={require("./assets/Lastsupper.png")}
+            source={require("./assets/Lastsupper.jpg")}
             style={{
               width: "100%",
               height: 150,
